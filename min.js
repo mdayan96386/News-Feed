@@ -1,4 +1,4 @@
-const API_KEY = '6c5e551e74da4ff3ba5b6b9f6f6c6acc';  // Replace with your actual API key
+const API_KEY = '6c5e551e74da4ff3ba5b6b9f6f6c6acc';
 const API_URL = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=' + API_KEY;
 
 let currentPage = 1;
